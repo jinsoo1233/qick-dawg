@@ -8,3 +8,12 @@ with open("./src/qickdawg/version.json") as file:
 setuptools.setup(
     name='qickdawg',
     version=__version__)
+
+
+
+
+
+
+
+
+
